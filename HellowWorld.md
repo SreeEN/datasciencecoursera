@@ -3,6 +3,6 @@
 
 ### Oh, btw, I tried to test other stuff too
 
-* Start for bullet
+* Star for bullet
 
 [Link to Google](http://www.google.com)
